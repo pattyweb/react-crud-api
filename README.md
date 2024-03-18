@@ -1,3 +1,10 @@
+Creating my REACT APP:
+npx create-react-app ./todo-api
+cd todo-api
+npm start
+
+And in the browser: http://localhost:3000/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
