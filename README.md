@@ -1,12 +1,11 @@
-Creating my REACT APP:
-npx create-react-app ./todo-api
-cd todo-api
-npm start
-
 SEE THE LIVE PROJECT:
 
 [React custom API](https://reactjs-api.netlify.app/)
 
+Creating my REACT APP:
+npx create-react-app ./todo-api
+cd todo-api
+npm start
 And in the browser: http://localhost:3000/
 
 # Getting Started with Create React App
